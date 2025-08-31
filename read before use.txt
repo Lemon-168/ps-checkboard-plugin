@@ -1,4 +1,8 @@
-How to use ?
+
+This is my first time posting code on GitHub. I enjoy drawing illustrations (Adobe ill) and game panel design (Aodbe ps), and I enjoy playing Age of Empires 2 Definitive Edition. If you enjoy making friends online, please add qq: 3314949837
+
+
+How to use ?如何使用捏?
 
 棋盘格参数
 默认 800 8
@@ -27,3 +31,4 @@ A basic plug-in for entertainment purposes only, suitable for the construction o
 Basic knowledge:
 Reference to essential JavaScript libraries
 Introduce data from HTML to JSX for execution
+
