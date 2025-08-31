@@ -1,3 +1,5 @@
+How to use ?
+
 棋盘格参数
 默认 800 8
 min 100 2
@@ -10,3 +12,18 @@ max 3000 100
 基础知识：
 js必备库的引用
 html引入数据到jsx执行
+
+
+________我是一个特别干净自爱的好鼠鼠_________
+
+Chequerboard pattern parameters
+Default 800 8
+min 100 2
+max 3000 100
+
+Two types of checkerboard patterns are filled with foreground and background colors
+A basic plug-in for entertainment purposes only, suitable for the construction of grid art
+
+Basic knowledge:
+Reference to essential JavaScript libraries
+Introduce data from HTML to JSX for execution
